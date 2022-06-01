@@ -1,6 +1,6 @@
 # Asking a dev to do leetcode is like asking a chef to make an egg 🥚
 
-There's a bunch of ton of different ways a chef can cook an egg. 
+There's a ton of different ways a chef can cook an egg. 
 
 There are simple and nice ways and there are also stupid and poopy bad ways to make an egg.
 
